@@ -1,1 +1,1 @@
-var playlist = new Objects
+var playlist {}
