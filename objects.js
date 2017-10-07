@@ -1,6 +1,6 @@
 var playlist = {
   'Dash Berlin': 'Til the sky fall down',
-  'X': 'Y'
+  'Kanye': 'Gold Digger'
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
